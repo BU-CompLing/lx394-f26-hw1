@@ -1,5 +1,5 @@
 # HW 1: ChatGPT vs. Wikipedia
-**Due: September 29, 9:00 AM**
+**Due: September 28, 9:00 AM**
 
 For this assignment, please complete the _problem set_ found in `hw1-pset.ipynb`. The problem set includes coding problems as well as written problems.
 
@@ -57,16 +57,16 @@ For code questions, you will receive:
 * at least .25 points if your code runs but fails at least one test case
 * 0 points if your code does not run.
 
-Partial credit may be awarded at the Yulu's discretion, depending on the correctness of your logic and the severity of bugs or other mistakes in your code. All code problems will be graded **as if all other code problems had been answered correctly**. Therefore, an incorrect implementation of one function should (in theory) not affect your grade on other problems that depend on that function.
+Partial credit may be awarded at the Romi's discretion, depending on the correctness of your logic and the severity of bugs or other mistakes in your code. All code problems will be graded **as if all other code problems had been answered correctly**. Therefore, an incorrect implementation of one function should (in theory) not affect your grade on other problems that depend on that function.
 
 ### Rubric for Written Problems
 For written problems, you will receive:
 * full points if your answer is completely correct
-* at least .25 points if a good-faith effort (according to Yulu's judgment) has been made to answer the question
+* at least .25 points if a good-faith effort (according to Romi's judgment) has been made to answer the question
 * 0 points if your answer is blank.
 
-Partial credit may be awarded at Yulu's discretion.
+Partial credit may be awarded at Romi's discretion.
 
 ## Late Submissions and Resubmissions
 
-Grading will commence on October 6, and solutions will be released on that day. Therefore, no late submissions will be accepted after 9:00 AM on October 6. You may resubmit your solutions as many times as you like; only the final submission will be graded. If the final submission occurs after the deadline on September 29, then your submission will be considered late even if you have previously submitted your solution before the deadline.
+Grading will commence on October 5, and solutions will be released on that day. Therefore, no late submissions will be accepted after 9:00 AM on October 5. You may resubmit your solutions as many times as you like; only the final submission will be graded. If the final submission occurs after the deadline on September 28, then your submission will be considered late even if you have previously submitted your solution before the deadline.
