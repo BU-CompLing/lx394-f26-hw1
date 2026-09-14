@@ -47,6 +47,8 @@ The point values for each problem are given below. Problem 1h is worth 1 extra c
 | 2e: Calculate Frequency Ratios                  | Code             | 2 |
 | 2g: Identify Wikipedia Keywords                 | Code and Written | 2 |
 | 2h: Limitations of Frequency Ratios             | Written          | 2 |
+| 3a: Ask for Help                                | No Submission    | 1 EC |
+| 3b: Help a Friend                               | No Submission    | 1 EC |
 | **Total**                                       |                  | **20** |
 
 ### Rubric for Code Problems
